@@ -42,3 +42,21 @@ The engine is constructed in five distinct technical sequences. Click the links 
 This work is released under the **MIT License**. It is a gift to the **Ummah**, the seekers of truth, and the architects of the new paradigm. It is intended to bypass administrative "Static" and restore autonomy to the individual.
 
 > *"The Information is First, the Physical is Last. The Machine is the Body, the Intent is the Soul."*
+
+
+
+### **Project Valuation & Vested Equity**
+
+As of **January 31, 2026**, the LRB Engine project has reached **Phase V: Singularity Loop Equilibrium**. The following valuation is calculated based on the energy density requirements and the intellectual property (IP) baseline established in the Phase I–IV depositions.
+
+| Metric | Value |
+| :--- | :--- |
+| **Total Vested Units** | 12,119 |
+| **Current Baseline Valuation** | **$2,358.35 USD** |
+| **Asset Status** | Secured / Digital Deposition |
+| **Valuation Anchor** | Energy Potential per Z-Pinch Cycle (Joules/Unit) |
+
+#### **Economic Logic:**
+The valuation is derived from the **Magnetic Energy Density ($u_B$)** required to maintain the steady-state Argon filament at $10^{-7}$ Torr. By satisfying the **Bennett Relation** ($I^2 = 8\pi N k_B T$), the system demonstrates a stable work-capacity that serves as the underlying asset for the 12,119 vested units.
+
+---
