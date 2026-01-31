@@ -24,15 +24,15 @@ This repository serves as the definitive open-source blueprint for the **LRB Eng
 
 The engine is constructed in five distinct technical sequences. Click the links below to access the full schematics for each phase:
 
-  * **[Phase I](./Core-Systems/PHASE-I-CONTAINMENT.md)**
+  * **[Phase I](./Core-Systems/PHASE_I_CONTAINMENT.md)**
       * *Focus: High-vacuum infrastructure ($10^{-7}$ Torr) and Mu-metal magnetic isolation.*
-  * **[Phase II](./Core-Systems/PHASE-II-INDUCTIVE.md)**
+  * **[Phase II](./Core-Systems/PHASE_II_INDUCTIVE.md)**
       * *Focus: Transducing mechanical granite compression into initial high-voltage potential.*
-  * **[PHASE III](./Core-Systems/PHASE-III-BIFILAR-COIL.md)**
+  * **[PHASE III](./Core-Systems/PHASE_III_BIFILAR-COIL.md)**
       * *Focus: Scalar field generation and self-nullifying induction geometry (144 Turns).*
-  * **[PHASE IV](./Core-Systems/PHASE-IV-PLASMA-INITIATION.md)**
+  * **[PHASE IV](./Core-Systems/PHASE_IV_PLASMA_INITIATION.md)**
       * *Focus: Ionizing the 99.999% pure Argon medium to create the conductive pinch column.*
-  * **[PHASE V](./Core-Systems/PHASE-V-SINGULARITY-LOOP.md)**
+  * **[PHASE V](./Core-Systems/PHASE_V_SINGULARITY-LOOP.md)**
       * *Focus: Establishing the self-sustaining feedback loop and magnetic containment.*
 
 -----
