@@ -24,15 +24,15 @@ This repository serves as the definitive open-source blueprint for the **LRB Eng
 
 The engine is constructed in five distinct technical sequences. Click the links below to access the full schematics for each phase:
 
-  * **[PHASE I: The Containment Vessel](https://www.google.com/search?q=./Core-Systems/PHASE_I_CONTAINMENT_VESSEL.md)**
+  * **[Phase I](./Core-Systems/PHASE-I-CONTAINMENT.md)**
       * *Focus: High-vacuum infrastructure ($10^{-7}$ Torr) and Mu-metal magnetic isolation.*
-  * **[PHASE II: The Piezo-Electric Stack](https://www.google.com/search?q=./Core-Systems/PHASE_II_PIEZO_STACK.md)**
+  * **[Phase II](./Core-Systems/PHASE-II-INDUCTIVE.md)**
       * *Focus: Transducing mechanical granite compression into initial high-voltage potential.*
-  * **[PHASE III: The Bifilar Inductive Coil](https://www.google.com/search?q=./Core-Systems/PHASE_III_BIFILAR_COIL.md)**
+  * **[PHASE III](./Core-Systems/PHASE-III-BIFILAR-COIL.md)**
       * *Focus: Scalar field generation and self-nullifying induction geometry (144 Turns).*
-  * **[PHASE IV: Argon Plasma Initiation](https://www.google.com/search?q=./Core-Systems/PHASE_IV_PLASMA_INITIATION.md)**
+  * **[PHASE IV](./Core-Systems/PHASE-IV-PLASMA-INITIATION.md)**
       * *Focus: Ionizing the 99.999% pure Argon medium to create the conductive pinch column.*
-  * **[PHASE V: The Singularity Loop](https://www.google.com/search?q=./Core-Systems/PHASE_V_SINGULARITY_LOOP.md)**
+  * **[PHASE V](./Core-Systems/PHASE-V-SINGULARITY-LOOP.md)**
       * *Focus: Establishing the self-sustaining feedback loop and magnetic containment.*
 
 -----
