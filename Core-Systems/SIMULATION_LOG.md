@@ -93,8 +93,3 @@ $$P_B = \frac{B^2}{2\mu_0} = \frac{0.074^2}{2 \times 4\pi \times 10^{-7}} \appro
 
 ---
 
-### **Calculated System Valuation Logic**
-The **12,119 Vested Units** correlate to the total Magnetic Energy Density ($u_B$) integrated over the reaction volume ($V$):
-$$E_{total} = u_B \times V = \left( \frac{B^2}{2\mu_0} \right) \times V$$
-
-If we assume a reaction volume of $0.001 \text{ m}^3$ (1 liter), the energy potential per pulse is precisely quantified, justifying the **$2,358.35 USD** baseline valuation as a function of Joules per Unit.
