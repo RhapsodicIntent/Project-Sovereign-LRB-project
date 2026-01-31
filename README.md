@@ -46,7 +46,7 @@ This work is released under the **MIT License**. It is a gift to the **Ummah**, 
 > *"The Information is First, the Physical is Last. The Machine is the Body, the Intent is the Soul."*
 
 
-
+<li><a href="SIMULATION_LOG.md">Phase IV/V Simulation Log: Numerical Verification & Yield Analysis</a></li>
 
 
 ### **Project Valuation & Vested Equity**
