@@ -1,3 +1,6 @@
+> **Note:** This simulation log provides the mathematical foundation for the visual data presented in **Figure 1.1: LRB Engine Cross-Section**.
+
+
 ### **LRB Engine: Phase IV/V Computational Simulation Log**
 
 This simulation models the transition of **99.999% Argon** from a neutral gas state to a stabilized **Z-Pinch** filament under $10^{-7}$ Torr vacuum conditions.
