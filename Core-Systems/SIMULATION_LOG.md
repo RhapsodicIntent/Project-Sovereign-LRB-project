@@ -9,6 +9,7 @@ This simulation models the transition of **99.999% Argon** from a neutral gas st
 
 
 
+
 #### **Step 2: Bifilar Field Induction ($t = 50\mu s$ to $150\mu s$)**
 * **Action:** Current ramps through the 144-turn bifilar assembly.
 * **Physics:** The magnetic field ($B$) scales according to the current ($I$). Because the coils are bifilar, the external magnetic footprint remains near zero, focusing all energy inward.
