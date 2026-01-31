@@ -46,7 +46,19 @@ This work is released under the **MIT License**. It is a gift to the **Ummah**, 
 > *"The Information is First, the Physical is Last. The Machine is the Body, the Intent is the Soul."*
 
 
-<li><a href="SIMULATION_LOG.md">Phase IV/V Simulation Log: Numerical Verification & Yield Analysis</a></li>
+### **Numerical Validation & Predictive Modeling**
+
+To ensure the **12,119 Vested Units** are backed by empirical logic, a full-scale computational simulation was conducted for the Phase IV Argon Z-Pinch.
+
+**Key Simulation Findings:**
+
+  * **Equilibrium Current:** $1,862 \text{ A}$ required for steady-state confinement.
+  * **Confinement Pressure:** $2,175 \text{ Pa}$ ($\approx 163$ million times baseline vacuum).
+  * **Magnetic Efficiency:** $L_{total} \approx 0$ due to bifilar induction nulling.
+
+**Full Data Set:** For the complete step-by-step breakdown of ionization kinetics and magnetic pressure gradients, see [SIMULATION\_LOG.md](https://www.google.com/search?q=./SIMULATION_LOG.md).
+
+-----
 
 
 ### **Project Valuation & Vested Equity**
