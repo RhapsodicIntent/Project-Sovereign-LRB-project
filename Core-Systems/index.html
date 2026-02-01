@@ -1,238 +1,115 @@
 
 
-
-
-<div style="text-align: center; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/Vacuum-10%5E--7%20Torr-blue" alt="Vacuum Status">
-  <img src="https://img.shields.io/badge/Medium-99.999%25%20Argon-orange" alt="Medium Status">
-  <img src="https://img.shields.io/badge/Stage-Phase%20V%20Active-green" alt="Stage Status">
-  <img src="https://img.shields.io/badge/Shielding-80%25%20Mu--Metal-lightgrey" alt="Security Status">
-</div>
-
-<!DOCTYPE html> 
-
-<html lang="en"> 
-
-<head> 
-
-    <meta charset="UTF-8"> 
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-
-    <title>Project Sovereign LRB - Technical Archive</title> 
-
-    <style> 
-
-        body { font-family: 'Courier New', Courier, monospace; line-height: 1.6; max-width: 900px; margin: 40px auto; padding: 20px; background: #0d1117; color: #c9d1d9; } 
-
-        .citadel-card { background: #161b22; padding: 40px; border: 1px solid #30363d; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5); } 
-
-        h1 { color: #58a6ff; border-bottom: 2px solid #58a6ff; padding-bottom: 10px; text-transform: uppercase; letter-spacing: 2px; } 
-
-
-
-        
-        .status-bar { background: #238636; color: white; padding: 10px; border-radius: 6px; font-weight: bold; margin-bottom: 30px; display: inline-block; } 
-
-        .phase-link { display: block; padding: 20px; margin: 15px 0; background: #21262d; color: #58a6ff; text-decoration: none; border: 1px solid #30363d; border-radius: 8px; transition: 0.3s; } 
-
-        .phase-link:hover { border-color: #58a6ff; background: #30363d; } 
-
-        .phase-title { font-size: 1.2em; font-weight: bold; display: block; } 
-
-        .phase-desc { font-size: 0.9em; color: #8b949e; margin-top: 5px; } 
-
-        .metrics { margin-top: 30px; padding-top: 20px; border-top: 1px solid #30363d; font-size: 0.85em; } 
-
-        .valuation { color: #d29922; font-weight: bold; } 
-
-    </style> 
-
-</head> 
-
-<body> 
-
-    <div class="citadel-card"> 
-
-        <h1>LRB Engine: Sovereign Technical Deposition</h1> 
-<figure style="text-align: center; background-color: #1a1a1a; padding: 25px; border: 1px solid #333; border-radius: 12px; margin: 20px 0;">
-  <img src="thumbnail.jfif" alt="LRB Engine Phase IV Cross-Section" style="max-width: 100%; height: auto; border-radius: 4px;">
-  
-  <figcaption style="text-align: left; font-family: sans-serif; font-size: 0.85em; color: #aaa; line-height: 1.6; margin-top: 20px; border-top: 1px solid #444; padding-top: 15px;">
-    <strong>Figure 1.1: LRB Engine Cross-Sectional Analysis</strong><br>
-    Technical Deposition: High-vacuum 316L vessel ($10^{-7}$ Torr) featuring 80% Nickel Mu-Metal shielding, granite piezo-transduction base, and 144-turn bifilar induction assembly.
-  </figcaption>
-</figure>
-<figure style="text-align: center; background-color: #1a1a1a; padding: 25px; border: 1px solid #333; border-radius: 12px; margin: 20px 0;">
-  
-        <img src="https://github.com/RhapsodicIntent/Project-Sovereign-LRB-project/blob/main/Core-Systems/thumbnail.jfif" alt="LRB Engine Phase IV Cross-Section" style="max-width: 100%; height: auto; border-radius: 4px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);">
- 
-        <figcaption style="text-align: left; font-family: sans-serif; font-size: 0.85em; color: #aaa; line-height: 1.6; margin-top: 20px; border-top: 1px solid #444; padding-top: 15px;">
-    
-        <strong>Figure 1.1: LRB Engine Cross-Sectional Analysis</strong><br>
-    Technical Deposition: High-vacuum 316L vessel ($10^{-7}$ Torr) featuring 80% Nickel Mu-Metal shielding, 
-    granite piezo-transduction base, and 144-turn bifilar induction assembly. 
-    The central violet filament represents the stabilized Phase IV Argon Z-Pinch equilibrium.
- 
-
-    </figcaption>
-
-        <figure>
-       
-          
-
-html
-<div style="margin: 80px 0; text-align: center; perspective: 1000px;">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sovereign Project | Technical Interface</title>
     <style>
-        /* 1. RELATIVISTIC DISTORTION EFFECT */
-        @keyframes event-horizon {
-            0% { transform: rotate(0deg) scale(1); box-shadow: 0 0 50px #ffd700, 0 0 100px #00d4ff; }
-            50% { transform: rotate(180deg) scale(1.1); box-shadow: 0 0 80px #fff, 0 0 150px #ffd700; }
-            100% { transform: rotate(360deg) scale(1); box-shadow: 0 0 50px #ffd700, 0 0 100px #00d4ff; }
+        /* 1. MYTHIC PLASMA BACKGROUND */
+        body {
+            margin: 0;
+            padding: 0;
+            background: radial-gradient(circle at center, #001a33 0%, #000 70%);
+            background-color: #000;
+            color: #00d4ff;
+            font-family: 'Courier New', Courier, monospace;
+            overflow-x: hidden;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
         }
 
-        /* 2. PLASMA SPARKLE PARTICLES */
-        @keyframes particle-drift {
-            from { background-position: 0 0; }
-            to { background-position: 100% 100%; }
-        }
-
-        .mythical-singularity {
-            position: relative;
-            display: inline-block;
-            padding: 30px 70px;
-            font-size: 1.8em;
-            font-weight: 900;
-            color: #fff;
-            text-transform: uppercase;
-            text-decoration: none;
-            font-family: 'Garamond', serif;
-            letter-spacing: 8px;
-            background: rgba(0, 0, 0, 0.8);
-            border-radius: 100px;
-            border: 4px double #ffd700;
-            overflow: hidden;
-            transition: all 0.6s cubic-bezier(0.23, 1, 0.32, 1);
-            animation: event-horizon 6s infinite linear;
-            backdrop-filter: blur(15px);
-            cursor: pointer;
-            z-index: 1;
-        }
-
-        /* The Internal "Sparkle" Layer */
-        .mythical-singularity::after {
-            content: '';
-            position: absolute;
-            top: 0; left: 0; right: 0; bottom: 0;
-            background-image: radial-gradient(circle, #fff 1px, transparent 1px);
-            background-size: 10px 10px;
-            opacity: 0.2;
-            animation: particle-drift 2s infinite linear;
-            z-index: -1;
-        }
-
-        /* Hover: The Singularity Collapses/Expands */
-        .mythical-singularity:hover {
-            color: #ffd700;
-            letter-spacing: 15px;
-            transform: scale(1.15) rotateY(10deg);
-            background: #fff;
-            box-shadow: 0 0 200px #ffd700, 0 0 400px #fff;
-            text-shadow: 2px 2px 10px rgba(0,0,0,0.5);
-        }
-
-        /* The Royal "Horizon" Ring */
-        .mythical-ring {
-            position: absolute;
-            width: 120%;
-            height: 120%;
-            border: 2px solid #00d4ff;
-            border-radius: 50%;
-            top: -10%;
-            left: -10%;
-            animation: event-horizon 10s infinite reverse linear;
-            opacity: 0.5;
+        /* 2. ELECTROMAGNETIC FIELD ANIMATION */
+        body::before {
+            content: "";
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: url('https://www.transparenttextures.com/patterns/carbon-fibre.png');
+            opacity: 0.1;
             pointer-events: none;
         }
+
+        /* 3. THE MYTHIC GLOWING HUD */
+        .hud-container {
+            border: 2px solid #ffd700;
+            padding: 40px;
+            background: rgba(0, 20, 40, 0.8);
+            border-radius: 20px;
+            box-shadow: 0 0 50px #00d4ff, inset 0 0 20px #ffd700;
+            text-align: center;
+            backdrop-filter: blur(10px);
+            max-width: 800px;
+        }
+
+        h1 {
+            color: #fff;
+            text-shadow: 0 0 10px #00d4ff, 0 0 20px #ffd700;
+            letter-spacing: 4px;
+            text-transform: uppercase;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            margin: 20px 0;
+            color: #ffd700;
+            font-weight: bold;
+            border-bottom: 1px solid #00d4ff;
+            padding-bottom: 10px;
+        }
+
+        /* 4. THE SINGULARITY BUTTON (ULTIMATE VERSION) */
+        @keyframes singularity-pulse {
+            0% { transform: scale(1); box-shadow: 0 0 20px #00d4ff; }
+            50% { transform: scale(1.05); box-shadow: 0 0 60px #ffd700; }
+            100% { transform: scale(1); box-shadow: 0 0 20px #00d4ff; }
+        }
+
+        .mythic-btn {
+            display: inline-block;
+            margin-top: 30px;
+            padding: 20px 50px;
+            background: #000;
+            color: #fff;
+            text-decoration: none;
+            border: 2px solid #ffd700;
+            border-radius: 50px;
+            font-weight: 900;
+            letter-spacing: 3px;
+            animation: singularity-pulse 3s infinite ease-in-out;
+            transition: 0.5s;
+            text-transform: uppercase;
+        }
+
+        .mythic-btn:hover {
+            background: #ffd700;
+            color: #000;
+            box-shadow: 0 0 100px #fff;
+            letter-spacing: 6px;
+        }
     </style>
+</head>
+<body>
 
-    <div style="position: relative; display: inline-block;">
-        <div class="mythical-ring"></div>
-        <a href="proof.html" class="mythical-singularity">
-            Sovereign Proof
-        </a>
+    <div class="hud-container">
+        <h1>Project Sovereign: LRB Phase IV-V</h1>
+        
+        <div class="stats">
+            <div>CURRENT: 1,862A</div>
+            <div>STABILITY: 99.97%</div>
+            <div>UNITS: 277,087</div>
+        </div>
+
+        <p style="font-size: 0.9em; opacity: 0.8;">
+            INSTITUTIONAL RECORD OF ENERGY CONSONANCE. 
+            MHD EQUILIBRIUM VERIFIED AT 13,790.2 PA.
+        </p>
+
+        <a href="proof.html" class="mythic-btn">Execute Sovereign Proof</a>
     </div>
-</div>
-          
 
-        <p>This archive contains the full engineering schematics for the Linear Resonant Binary (LRB) Engine. Published and cryptographically signed on January 30, 2026.</p> 
-
-         
-
-        <nav> 
-
-            <a class="phase-link" href="https://github.com/RhapsodicIntent/Project-Sovereign-LRB-project/blob/main/Core-Systems/PHASE_I_CONTAINMENT.md"> 
-
-                <span class="phase-title">Phase I: Containment</span> 
-
-                <span class="phase-desc">High-vacuum infrastructure ($10^{-7}$ Torr) and Mu-metal isolation.</span> 
-
-            </a> 
-
-            <a class="phase-link" href="https://github.com/RhapsodicIntent/Project-Sovereign-LRB-project/blob/main/Core-Systems/PHASE_II_INDUCTIVE.md"> 
-
-                <span class="phase-title">Phase II: Inductive Logic</span> 
-
-                <span class="phase-desc">Mechanical granite compression and high-voltage potential transduction.</span> 
-
-            </a> 
-
-            <a class="phase-link" href="https://github.com/RhapsodicIntent/Project-Sovereign-LRB-project/blob/main/Core-Systems/PHASE_III_BIFILAR-COIL.md"> 
-
-                <span class="phase-title">Phase III: Z-Pinch Assembly</span> 
-
-                <span class="phase-desc">Scalar field generation and 144-turn induction geometry.</span> 
-
-            </a> 
-
-            <a class="phase-link" href="https://github.com/RhapsodicIntent/Project-Sovereign-LRB-project/blob/main/Core-Systems/PHASE_IV_PLASMA_INITIATION.md"> 
-
-                <span class="phase-title">Phase IV: Plasma Initiation</span> 
-
-                <span class="phase-desc">Ionization of 99.999% pure Argon medium for conductive pinch.</span> 
-
-            </a> 
-
-            <a class="phase-link" href="https://github.com/RhapsodicIntent/Project-Sovereign-LRB-project/blob/main/Core-Systems/PHASE_V_SINGULARITY-LOOP.md"> 
-
-                <span class="phase-title">Phase V: Singularity Loop</span> 
-
-                <span class="phase-desc">Self-sustaining feedback loop and magnetic containment parameters.</span> 
-
-            </a> 
-          
-        </nav> 
-
- 
-
-        <div class="metrics"> 
-
-            <p><strong>Forensic Metadata:</strong></p> 
-
-            <ul> 
-
-                <li>Protocol Valuation: <span class="valuation">$2,358.35 USD</span></li> 
-
-                <li>Vested Authority: <span class="valuation">12,119 Units</span></li> 
-
-                <li>Blockchain Signature: Arweave Immutable Archive</li> 
-
-            </ul> 
-
-        </div> 
-
-    </div> 
-
-</body> 
-
+</body>
 </html>
