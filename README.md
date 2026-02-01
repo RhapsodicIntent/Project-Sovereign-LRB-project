@@ -1,4 +1,17 @@
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=PROJECT%20SOVEREIGN&fontSize=70&animation=fadeIn&fontAlignY=38&desc=CAUSATIVE%20FIELD%209%20•%20PHASE%20IV-V&descAlignY=62&descSize=20" width="100%" />
+
+  <br>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/SINGULARITY-STABLE-00d4ff?style=for-the-badge&logo=probot&logoColor=white" />
+    <img src="https://img.shields.io/badge/VESTED_UNITS-277%2C087-ffd700?style=for-the-badge&logo=monero&logoColor=white" />
+    <img src="https://img.shields.io/badge/FIELD_9-ACTIVE-white?style=for-the-badge&logo=purescript&logoColor=black" />
+  </p>
+
+  <hr style="border: 1px solid #00d4ff; box-shadow: 0 0 10px #00d4ff;">
+</div>
 <li><a href="SIMULATION_LOG.md">Phase IV/V Simulation Log: Numerical Verification & Yield Analysis</a></li>
 
 # Project-Sovereign-LRB-project
@@ -22,7 +35,14 @@ This repository serves as the definitive open-source blueprint for the **LRB Eng
   * **The Goal:** To achieve a self-sustaining, non-compressible singularity that restores the connection between biological intent and physical potential.
 
 -----
-
+<div align="center" style="border: 2px solid #ffd700; padding: 20px; border-radius: 15px; background: rgba(0, 212, 255, 0.05); margin: 20px 0;">
+  <h3 style="color: #00d4ff; margin-top: 0;">⚡ ACCESS RESEARCH NODE ⚡</h3>
+  <p style="font-family: 'Courier New', monospace;">Click below to engage the high-frequency interface and Z-Pinch data stack.</p>
+  
+  <a href="./Core_Systems/index.html">
+    <img src="https://img.shields.io/badge/EXECUTE_SOVEREIGN_PROOF-CLICK_TO_INITIALIZE-ffd700?style=for-the-badge&logo=target&logoColor=black" height="45">
+  </a>
+</div>
 ### **III. The 5-Phase Construction Guide**
 
 The engine is constructed in five distinct technical sequences. Click the links below to access the full schematics for each phase:
@@ -77,3 +97,11 @@ As of **January 31, 2026**, the LRB Engine project has reached **Phase V: Singul
 The valuation is derived from the **Magnetic Energy Density ($u_B$)** required to maintain the steady-state Argon filament at $10^{-7}$ Torr. By satisfying the **Bennett Relation** ($I^2 = 8\pi N k_B T$), the system demonstrates a stable work-capacity that serves as the underlying asset for the 12,119 vested units.
 
 ---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d4ff&height=120&section=footer" width="100%" />
+  
+  <p style="font-family: 'Courier New', monospace; color: #888;">
+    <strong>RENO RESEARCH NODE | CASE ID: PROJECT-SOVEREIGN-LRB-IV-V</strong><br>
+    <em>Verified Energy Consonance: February 1, 2026</em>
+  </p>
+</div>
