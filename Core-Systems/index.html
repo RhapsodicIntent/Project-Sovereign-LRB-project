@@ -1,112 +1,78 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Sovereign Project | Technical Interface</title>
     <style>
-        /* 1. MYTHIC PLASMA BACKGROUND */
         body {
-            margin: 0;
-            padding: 0;
-            background: radial-gradient(circle at center, #001a33 0%, #000 70%);
-            background-color: #000;
+            margin: 0; padding: 0;
+            background: radial-gradient(circle at center, #001a33 0%, #000 90%);
             color: #00d4ff;
             font-family: 'Courier New', Courier, monospace;
-            overflow-x: hidden;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            min-height: 100vh;
+            display: flex; flex-direction: column; align-items: center;
+            min-height: 100vh; padding: 40px;
         }
 
-        /* 2. ELECTROMAGNETIC FIELD ANIMATION */
-        body::before {
-            content: "";
-            position: fixed;
-            top: 0; left: 0; width: 100%; height: 100%;
-            background: url('https://www.transparenttextures.com/patterns/carbon-fibre.png');
-            opacity: 0.1;
-            pointer-events: none;
-        }
-
-        /* 3. THE MYTHIC GLOWING HUD */
+        /* ROYAL GLOW HUD */
         .hud-container {
             border: 2px solid #ffd700;
-            padding: 40px;
-            background: rgba(0, 20, 40, 0.8);
-            border-radius: 20px;
-            box-shadow: 0 0 50px #00d4ff, inset 0 0 20px #ffd700;
-            text-align: center;
+            padding: 30px;
+            background: rgba(0, 10, 20, 0.9);
+            border-radius: 15px;
+            box-shadow: 0 0 40px #00d4ff, inset 0 0 15px #ffd700;
+            max-width: 900px;
+            width: 100%;
             backdrop-filter: blur(10px);
-            max-width: 800px;
         }
 
-        h1 {
-            color: #fff;
-            text-shadow: 0 0 10px #00d4ff, 0 0 20px #ffd700;
-            letter-spacing: 4px;
-            text-transform: uppercase;
+        h1 { color: #fff; text-shadow: 0 0 15px #00d4ff; text-align: center; letter-spacing: 3px; }
+        
+        .grid-stats {
+            display: grid; grid-template-columns: repeat(3, 1fr);
+            gap: 15px; margin: 20px 0; border-top: 1px solid #ffd700; padding-top: 20px;
         }
 
-        .stats {
-            display: flex;
-            justify-content: space-around;
-            margin: 20px 0;
-            color: #ffd700;
-            font-weight: bold;
-            border-bottom: 1px solid #00d4ff;
-            padding-bottom: 10px;
-        }
+        .stat-box { text-align: center; border: 1px solid #00d4ff; padding: 10px; background: rgba(0,212,255,0.1); }
+        .stat-label { font-size: 0.7em; color: #ffd700; display: block; }
+        .stat-value { font-size: 1.1em; font-weight: bold; }
 
-        /* 4. THE SINGULARITY BUTTON (ULTIMATE VERSION) */
-        @keyframes singularity-pulse {
-            0% { transform: scale(1); box-shadow: 0 0 20px #00d4ff; }
-            50% { transform: scale(1.05); box-shadow: 0 0 60px #ffd700; }
-            100% { transform: scale(1); box-shadow: 0 0 20px #00d4ff; }
-        }
+        .description-text { line-height: 1.6; color: #fff; background: rgba(0,0,0,0.5); padding: 20px; border-radius: 5px; font-size: 0.9em; }
 
         .mythic-btn {
-            display: inline-block;
-            margin-top: 30px;
-            padding: 20px 50px;
-            background: #000;
-            color: #fff;
-            text-decoration: none;
-            border: 2px solid #ffd700;
-            border-radius: 50px;
-            font-weight: 900;
-            letter-spacing: 3px;
-            animation: singularity-pulse 3s infinite ease-in-out;
-            transition: 0.5s;
-            text-transform: uppercase;
+            display: block; width: 300px; margin: 30px auto; padding: 15px;
+            text-align: center; background: #000; color: #ffd700;
+            text-decoration: none; border: 2px solid #ffd700; border-radius: 50px;
+            font-weight: 900; animation: pulse 2s infinite; text-transform: uppercase;
         }
 
-        .mythic-btn:hover {
-            background: #ffd700;
-            color: #000;
-            box-shadow: 0 0 100px #fff;
-            letter-spacing: 6px;
+        @keyframes pulse {
+            0% { box-shadow: 0 0 10px #00d4ff; transform: scale(1); }
+            50% { box-shadow: 0 0 30px #ffd700; transform: scale(1.02); }
+            100% { box-shadow: 0 0 10px #00d4ff; transform: scale(1); }
         }
     </style>
 </head>
 <body>
 
     <div class="hud-container">
-        <h1>Project Sovereign: LRB Phase IV-V</h1>
-        
-        <div class="stats">
-            <div>CURRENT: 1,862A</div>
-            <div>STABILITY: 99.97%</div>
-            <div>UNITS: 277,087</div>
+        <h1>PROJECT SOVEREIGN: LRB IV-V</h1>
+
+        <div class="grid-stats">
+            <div class="stat-box"><span class="stat-label">DISCHARGE CURRENT</span><span class="stat-value">1,862 A</span></div>
+            <div class="stat-box"><span class="stat-label">MAG-PRESSURE</span><span class="stat-value">13,790.2 Pa</span></div>
+            <div class="stat-box"><span class="stat-label">VESTED UNITS</span><span class="stat-value">277,087</span></div>
         </div>
 
-        <p style="font-size: 0.9em; opacity: 0.8;">
-            INSTITUTIONAL RECORD OF ENERGY CONSONANCE. 
-            MHD EQUILIBRIUM VERIFIED AT 13,790.2 PA.
-        </p>
+        <div class="description-text">
+            <strong>TECHNICAL DEPOSITION:</strong><br>
+            To establish the Scientific Record of the Phase IV-V interaction, this node verifies the 
+            MHD equilibrium of the Argon Z-Pinch filament. This synchronization confirms 
+            a near-unitary power factor through 144-turn bifilar nulling.
+            <br><br>
+            <strong>VALUATION ANCHOR:</strong><br>
+            Units are anchored to the total work potential ($3.46 \times 10^{-3}$ J/pulse) 
+            of the Phase V Singularity Loop.
+        </div>
 
         <a href="proof.html" class="mythic-btn">Execute Sovereign Proof</a>
     </div>
