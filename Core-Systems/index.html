@@ -80,28 +80,71 @@
         <figure>
        
           
-     html
-<div style="margin: 40px 0; text-align: center;">
+
+<div style="margin: 60px 0; text-align: center;">
     <style>
-        @keyframes pulse-glow {
-            0% { box-shadow: 0 0 10px #fff, 0 0 20px #00d4ff; }
-            50% { box-shadow: 0 0 25px #fff, 0 0 50px #00d4ff; }
-            100% { box-shadow: 0 0 10px #fff, 0 0 20px #00d4ff; }
+        @keyframes singularity-pulse {
+            0% { box-shadow: 0 0 20px #00d4ff, 0 0 40px #00d4ff, inset 0 0 20px #fff; transform: scale(1); }
+            50% { box-shadow: 0 0 50px #00d4ff, 0 0 100px #fff, inset 0 0 40px #00d4ff; transform: scale(1.05); }
+            100% { box-shadow: 0 0 20px #00d4ff, 0 0 40px #00d4ff, inset 0 0 20px #fff; transform: scale(1); }
+        }
+
+        @keyframes border-sparkle {
+            0% { border-color: #00d4ff; }
+            33% { border-color: #ffd700; }
+            66% { border-color: #fff; }
+            100% { border-color: #00d4ff; }
+        }
+
+        .singularity-trigger {
+            display: inline-block;
+            padding: 25px 50px;
+            background: radial-gradient(circle, #000 20%, #001a33 50%, #00d4ff 100%);
+            color: #fff;
+            text-decoration: none;
+            font-family: 'Courier New', Courier, monospace;
+            font-weight: 900;
+            font-size: 1.4em;
+            border: 3px solid #00d4ff;
+            border-radius: 60px;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+            position: relative;
+            overflow: hidden;
+            transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            animation: singularity-pulse 4s infinite ease-in-out, border-sparkle 2s infinite linear;
+            cursor: pointer;
+            -webkit-box-reflect: below 10px linear-gradient(transparent, rgba(0,0,0,0.2));
+        }
+
+        .singularity-trigger:hover {
+            letter-spacing: 10px;
+            background: radial-gradient(circle, #00d4ff 0%, #000 100%);
+            color: #000;
+            filter: brightness(1.5) contrast(1.2);
+            text-shadow: 0 0 10px #fff;
+        }
+
+        /* The Plasma Wake effect */
+        .singularity-trigger::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: conic-gradient(transparent, #00d4ff, transparent 30%);
+            animation: rotate-plasma 3s infinite linear;
+            opacity: 0.3;
+        }
+
+        @keyframes rotate-plasma {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
         }
     </style>
-    <a href="https://github.com/rhapsodicintent/Project-Sovereign-LRB-project/blob/main/Core_Systems/PROOF.md" style="
-        display: inline-block;
-        padding: 20px 40px;
-        background: radial-gradient(circle, #000 30%, #111 60%, #00d4ff 100%);
-        color: #fff;
-        text-decoration: none;
-        font-family: 'Courier New', Courier, monospace;
-        font-weight: bold;
-        border: 1px solid #00d4ff;
-        border-radius: 50px;
-        animation: pulse-glow 3s infinite ease-in-out;
-        text-transform: uppercase;
-    ">
+
+    <a href="proof.html" class="singularity-trigger">
         Execute Sovereign Proof [IV-V]
     </a>
 </div>
