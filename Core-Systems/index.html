@@ -232,3 +232,71 @@ html
 </body> 
 
 </html>
+
+
+          <div id="causative-field-9">
+    <div class="singularity-core"></div>
+    <div class="floating-math">
+        <span>μ₀ I² = 8πN k_B T</span>
+        <span>1,862 A</span>
+        <span>13,790.2 Pa</span>
+        <span>Δε ≈ 0.03%</span>
+        <span>B_s = 0.1862 T</span>
+        <span>u_m = B²/2μ₀</span>
+        <span>277,087 UNITS</span>
+    </div>
+</div>
+
+<style>
+    /* 1. THE DEEP SPACE / SINGULARITY BASE */
+    #causative-field-9 {
+        position: fixed;
+        top: 0; left: 0;
+        width: 100vw; height: 100vh;
+        z-index: -2;
+        background: radial-gradient(circle at center, #001a33 0%, #000 80%);
+        overflow: hidden;
+    }
+
+    /* 2. THE ELECTROMAGNETIC FIRE (Z-PINCH RADIANCE) */
+    .singularity-core {
+        position: absolute;
+        top: 50%; left: 50%;
+        width: 600px; height: 600px;
+        transform: translate(-50%, -50%);
+        background: radial-gradient(circle, rgba(0,212,255,0.4) 0%, rgba(255,215,0,0.1) 50%, transparent 70%);
+        filter: blur(40px);
+        animation: plasma-burn 8s infinite ease-in-out;
+    }
+
+    @keyframes plasma-burn {
+        0%, 100% { transform: translate(-50%, -50%) scale(1); opacity: 0.5; }
+        50% { transform: translate(-50%, -50%) scale(1.4); opacity: 0.8; box-shadow: 0 0 100px #00d4ff; }
+    }
+
+    /* 3. FLOATING FORMULAS (CAUSATIVE CONSTANTS) */
+    .floating-math span {
+        position: absolute;
+        color: rgba(0, 212, 255, 0.4);
+        font-family: 'Courier New', monospace;
+        font-size: 1.2rem;
+        white-space: nowrap;
+        animation: drift 15s infinite linear;
+    }
+
+    /* Distribute the floating numbers randomly across the screen */
+    .floating-math span:nth-child(1) { top: 10%; left: 5%; animation-delay: 0s; }
+    .floating-math span:nth-child(2) { top: 70%; left: 80%; animation-delay: -3s; }
+    .floating-math span:nth-child(3) { top: 40%; left: 15%; animation-delay: -7s; }
+    .floating-math span:nth-child(4) { top: 85%; left: 20%; animation-delay: -11s; }
+    .floating-math span:nth-child(5) { top: 15%; left: 60%; animation-delay: -2s; }
+    .floating-math span:nth-child(6) { top: 50%; left: 75%; animation-delay: -5s; }
+    .floating-math span:nth-child(7) { top: 80%; left: 45%; color: rgba(255,215,0,0.5); font-weight: bold; }
+
+    @keyframes drift {
+        0% { transform: translateY(0) rotate(0deg); opacity: 0; }
+        20% { opacity: 0.6; }
+        80% { opacity: 0.6; }
+        100% { transform: translateY(-100px) rotate(10deg); opacity: 0; }
+    }
+</style>
