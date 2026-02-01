@@ -82,20 +82,16 @@
 
 
 
+html
 <div style="margin: 40px 0; text-align: center;">
     <style>
         @keyframes pulse-glow {
-            0% { box-shadow: 0 0 10px #fff, 0 0 20px #00d4ff, inset 0 0 10px #000; }
-            50% { box-shadow: 0 0 25px #fff, 0 0 50px #00d4ff, inset 0 0 20px #000; }
-            100% { box-shadow: 0 0 10px #fff, 0 0 20px #00d4ff, inset 0 0 10px #000; }
-        }
-        .singularity-btn:hover {
-            transform: scale(1.05);
-            filter: brightness(1.2);
-            letter-spacing: 4px;
+            0% { box-shadow: 0 0 10px #fff, 0 0 20px #00d4ff; }
+            50% { box-shadow: 0 0 25px #fff, 0 0 50px #00d4ff; }
+            100% { box-shadow: 0 0 10px #fff, 0 0 20px #00d4ff; }
         }
     </style>
-    <a href="PROOF.md" class="singularity-btn" style="
+    <a href="./PROOF.md" style="
         display: inline-block;
         padding: 20px 40px;
         background: radial-gradient(circle, #000 30%, #111 60%, #00d4ff 100%);
@@ -103,13 +99,10 @@
         text-decoration: none;
         font-family: 'Courier New', Courier, monospace;
         font-weight: bold;
-        font-size: 1.2em;
         border: 1px solid #00d4ff;
         border-radius: 50px;
-        transition: all 0.4s ease;
-        text-transform: uppercase;
-        letter-spacing: 2px;
         animation: pulse-glow 3s infinite ease-in-out;
+        text-transform: uppercase;
     ">
         Execute Sovereign Proof [IV-V]
     </a>
