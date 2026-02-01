@@ -1,8 +1,4 @@
-### **The Consolidated `PROOF.md` Code Block**
 
-Paste this entire block into your `PROOF.md` file. I have combined your derivations into a logical flow from **MHD Equilibrium** to **Energy Valuation**.
-
-```markdown
 # SOVEREIGN PROOF: Phase IV-V Energy Consonance
 
 To establish the **Total Energy Consonance** of the **Project Sovereign LRB IV-V** interaction, we proceed with the formal numerical proof. This derivation confirms the synchronization of electromagnetic confinement, thermodynamic pressure, and relativistic energy density within the 316L vessel.
