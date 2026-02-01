@@ -1,8 +1,4 @@
 
-### **The "Clean" Code for `PROOF.md`**
-
-Copy and paste this exactly as it appears. This uses the standardized `$$` delimiters for display math and `$` for inline math, which will force the GitHub engine to render the symbols correctly.
-
 ---
 
 # **SOVEREIGN PROOF: Phase IV-V Energy Consonance**
