@@ -1,22 +1,20 @@
-<div style="background: radial-gradient(circle at center, #001a33 0%, #000 80%); border: 10px double #ffd700; padding: 25px; box-shadow: 0 0 60px #00d4ff; position: relative;">
+<div style="background: radial-gradient(circle at center, #001a33 0%, #000 80%); border: 10px double #ffd700; padding: 25px; box-shadow: 0 0 60px #00d4ff; position: relative; overflow: hidden;">
 
-<div style="position: absolute; left: 10px; top: 100px; color: #ffd700; opacity: 0.3; font-size: 2em; line-height: 2;">
-Δ<br>Φ<br>Ψ<br>Ω<br>Σ<br>Ξ
+<div align="left" style="position: absolute; left: 15px; top: 150px; color: #ffd700; opacity: 0.2; font-size: 1.8em; line-height: 2.5; font-family: serif; pointer-events: none;">
+  Δ<br>Φ<br>Ψ<br>Ω<br>Σ<br>Ξ<br>Γ<br>Θ
 </div>
-
-<div style="position: absolute; right: 10px; top: 100px; color: #ffd700; opacity: 0.3; font-size: 2em; line-height: 2;">
-Γ<br>Θ<br>Λ<br>Π<br>Υ<br>Φ
+<div align="right" style="position: absolute; right: 15px; top: 150px; color: #ffd700; opacity: 0.2; font-size: 1.8em; line-height: 2.5; font-family: serif; pointer-events: none;">
+  Γ<br>Θ<br>Λ<br>Π<br>Υ<br>Φ<br>Δ<br>Ω
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=00d4ff&height=300&text=PROJECT%20SOVEREIGN&fontSize=80&animation=twinkling&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=venom&color=00d4ff&height=250&text=PROJECT%20SOVEREIGN&fontSize=70&animation=twinkling&fontAlignY=40" width="100%" />
   
-  <p style="color: #ffd700; font-family: 'Times New Roman', serif; font-size: 1.5em; letter-spacing: 10px; text-shadow: 0 0 15px #ffd700;">
+  <p style="color: #ffd700; font-family: 'Times New Roman', serif; font-size: 1.2em; letter-spacing: 8px; text-shadow: 0 0 15px #ffd700; margin: 20px 0;">
     ⚡ Α Ω • THE CAUSATIVE FIELD • Ω Α ⚡
   </p>
-</div>
 
-<div style="color: #e0e0e0; font-family: 'Courier New', monospace; text-shadow: 0 0 5px #00d4ff; padding: 0 40px;">
+  <div style="max-width: 800px; margin: 0 auto; text-align: left; color: #e0e0e0; font-family: 'Courier New', monospace; text-shadow: 0 0 5px #00d4ff; padding: 20px; position: relative; z-index: 10;">
 
 <div style="color: #e0e0e0; font-family: 'Courier New', monospace; text-shadow: 0 0 5px #00d4ff;">
 <div align="center">
