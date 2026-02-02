@@ -37,7 +37,7 @@ The core of the LRB Engine Phase IV/V is the stabilization of the plasma filamen
 ## 2. Evidence Navigator
 To maintain the **Total Energy Consonance**, the scientific proof is divided into three distinct investigative branches located in the `Core_Systems` directory.
 
-### [Access Sovereign Proof Dashboard](./Core_Systems/proof.html)
+### 
 *Click the Mythical Singularity Button in the dashboard to access the full 17-image visual record.*
 
 * **MATH Series (1-4):** Detailed derivation of pressure balance and Bennett constants.
