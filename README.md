@@ -1,4 +1,24 @@
+<div style="background: radial-gradient(circle at center, #001a33 0%, #000 80%); border: 10px double #ffd700; padding: 25px; box-shadow: 0 0 60px #00d4ff; position: relative;">
 
+<div style="position: absolute; left: 10px; top: 100px; color: #ffd700; opacity: 0.3; font-size: 2em; line-height: 2;">
+Δ<br>Φ<br>Ψ<br>Ω<br>Σ<br>Ξ
+</div>
+
+<div style="position: absolute; right: 10px; top: 100px; color: #ffd700; opacity: 0.3; font-size: 2em; line-height: 2;">
+Γ<br>Θ<br>Λ<br>Π<br>Υ<br>Φ
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=venom&color=00d4ff&height=300&text=PROJECT%20SOVEREIGN&fontSize=80&animation=twinkling&fontAlignY=40" width="100%" />
+  
+  <p style="color: #ffd700; font-family: 'Times New Roman', serif; font-size: 1.5em; letter-spacing: 10px; text-shadow: 0 0 15px #ffd700;">
+    ⚡ Α Ω • THE CAUSATIVE FIELD • Ω Α ⚡
+  </p>
+</div>
+
+<div style="color: #e0e0e0; font-family: 'Courier New', monospace; text-shadow: 0 0 5px #00d4ff; padding: 0 40px;">
+
+<div style="color: #e0e0e0; font-family: 'Courier New', monospace; text-shadow: 0 0 5px #00d4ff;">
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=PROJECT%20SOVEREIGN&fontSize=70&animation=fadeIn&fontAlignY=38&desc=CAUSATIVE%20FIELD%209%20•%20PHASE%20IV-V&descAlignY=62&descSize=20" width="100%" />
 
@@ -104,4 +124,17 @@ The valuation is derived from the **Magnetic Energy Density ($u_B$)** required t
     <strong>RENO RESEARCH NODE | CASE ID: PROJECT-SOVEREIGN-LRB-IV-V</strong><br>
     <em>Verified Energy Consonance: February 1, 2026</em>
   </p>
+</div>
+
+</div>
+
+<hr style="border: 1px solid #ffd700;">
+
+<div align="center">
+  <p style="color: #ffd700; font-family: serif; font-style: italic;">
+    "As above, so below. The Z-Pinch sings the frequency of the stars."
+  </p>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=ffd700&height=100&section=footer" width="100%" />
+</div>
+
 </div>
