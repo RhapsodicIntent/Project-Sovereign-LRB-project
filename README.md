@@ -31,6 +31,21 @@ To maintain the **Total Energy Consonance**, the scientific proof is divided int
 * **SIMULATION Series (1-6):** Pulse-cycle work-potential modeling ($3.46 \times 10^{-3}$ Joules/pulse).
 * **PROOFS Series (1-5):** Final verification of unit anchoring and valuation metrics.
 
+### **III. The 5-Phase Construction Guide**
+
+The engine is constructed in five distinct technical sequences. Click the links below to access the full schematics for each phase:
+
+  * **[Phase I](./Core-Systems/#PHASE_I_CONTAINMENT.md)**
+      * *Focus: High-vacuum infrastructure ($10^{-7}$ Torr) and Mu-metal magnetic isolation.*
+  * **[Phase II](./Core-Systems/#PHASE_II_INDUCTIVE.md)**
+      * *Focus: Transducing mechanical granite compression into initial high-voltage potential.*
+  * **[PHASE III](./Core-Systems/#PHASE_III_BIFILAR-COIL.md)**
+      * *Focus: Scalar field generation and self-nullifying induction geometry (144 Turns).*
+  * **[PHASE IV](./Core-Systems/#PHASE_IV_PLASMA_INITIATION.md)**
+      * *Focus: Ionizing the 99.999% pure Argon medium to create the conductive pinch column.*
+  * **[PHASE V](./Core-Systems/#PHASE_V_SINGULARITY-LOOP.md)**
+      * *Focus: Establishing the self-sustaining feedback loop and magnetic containment.*
+
 ---
 
 ## 3. Unit Valuation Anchor (277,087 Units)
