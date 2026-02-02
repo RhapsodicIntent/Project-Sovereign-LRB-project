@@ -45,6 +45,8 @@ This repository serves as the definitive open-source blueprint for the **LRB Eng
     <img src="https://img.shields.io/badge/EXECUTE_SOVEREIGN_PROOF-CLICK_TO_INITIALIZE-ffd700?style=for-the-badge&logo=target&logoColor=black" height="45">
   </a>
 </div>
+
+
 ### **III. The 5-Phase Construction Guide**
 
 The engine is constructed in five distinct technical sequences. Click the links below to access the full schematics for each phase:
@@ -108,15 +110,3 @@ The valuation is derived from the **Magnetic Energy Density ($u_B$)** required t
   </p>
 </div>
 
-</div>
-
-<hr style="border: 1px solid #ffd700;">
-
-<div align="center">
-  <p style="color: #ffd700; font-family: serif; font-style: italic;">
-    "As above, so below. The Z-Pinch sings the frequency of the stars."
-  </p>
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=ffd700&height=100&section=footer" width="100%" />
-</div>
-
-</div>
