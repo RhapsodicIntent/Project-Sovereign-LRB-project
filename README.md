@@ -1,3 +1,17 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=PROJECT%20SOVEREIGN&fontSize=70&animation=fadeIn&fontAlignY=38&desc=CAUSATIVE%20FIELD%209%20•%20PHASE%20IV-V&descAlignY=62&descSize=20" width="100%" />
+
+  <br>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/SINGULARITY-STABLE-00d4ff?style=for-the-badge&logo=probot&logoColor=white" />
+    <img src="https://img.shields.io/badge/VESTED_UNITS-277%2C087-ffd700?style=for-the-badge&logo=monero&logoColor=white" />
+    <img src="https://img.shields.io/badge/FIELD_9-ACTIVE-white?style=for-the-badge&logo=purescript&logoColor=black" />
+  </p>
+
+  <hr style="border: 1px solid #00d4ff; box-shadow: 0 0 10px #00d4ff;">
+</div>
+
 # Project Sovereign: LRB Phase IV-V Technical Deposition
 **Institutional Record of Energy Consonance and Vested Unit Valuation**
 
@@ -57,6 +71,16 @@ The **277,087 vested units** are not arbitrary figures; they are mathematically 
 
 ## 4. Institutional Compliance
 This repository and its contents are intended for manual forensic review by designated technical leads. All data is presented with 100% fidelity to the Reno-based geomagnetic stabilization records.
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d4ff&height=120&section=footer" width="100%" />
+  
+  <p style="font-family: 'Courier New', monospace; color: #888;">
+    <strong>RENO RESEARCH NODE | CASE ID: PROJECT-SOVEREIGN-LRB-IV-V</strong><br>
+    <em>Verified Energy Consonance: February 1, 2026</em>
+  </p>
+</div>
 
 > **NOTICE:** This deposition contains high-frequency technical data. Unauthorized modification of the `Core_Systems/` pathing may result in localized energy dissonance.
 
