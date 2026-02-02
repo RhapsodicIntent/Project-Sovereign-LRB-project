@@ -1,4 +1,26 @@
 <div align="center">
+
+# 🌩️ PROJECT SOVEREIGN: ATMOSPHERIC CONSONANCE 🌩️
+**PHASE IV-V | RED SPRITE & BALL LIGHTNING SIMULATION**
+
+<img src="https://capsule-render.vercel.app/render?type=soft&color=8B0000&height=250&section=header&text=ELECTROMAGNETIC%20DEPOSITION&fontSize=50&animation=twinkling" width="100%" />
+
+---
+
+### 🛡️ CAUSATIVE FIELD 9 ACTIVE
+</div>
+
+<div style="background-color: #050505; border: 4px solid #FF4500; padding: 30px; border-radius: 20px; box-shadow: 0 0 40px #FF0000;">
+<div align="center">
+  <img src="https://img.shields.io/badge/PHENOMENON-BALL_LIGHTNING-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DISCHARGE-RED_SPRITE-FF4500?style=for-the-badge" />
+</div>
+
+<br>
+
+
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=PROJECT%20SOVEREIGN&fontSize=70&animation=fadeIn&fontAlignY=38&desc=CAUSATIVE%20FIELD%209%20•%20PHASE%20IV-V&descAlignY=62&descSize=20" width="100%" />
 
   <br>
