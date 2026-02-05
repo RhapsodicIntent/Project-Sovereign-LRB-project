@@ -1,1 +1,69 @@
 
+css
+
+/* Flashy Button Styling */
+
+.flashy-node {
+
+    Padding: 15px 30px;
+
+    Font-size: 1.1rem;
+
+    Font-weight: bold;
+
+    Color: white;
+
+    Background: rgba(255, 255, 255, 0.1);
+
+    Backdrop-filter: blur(10px);
+
+    Border: 2px solid rgba(255, 255, 255, 0.2);
+
+    Border-radius: 12px;
+
+    Cursor: pointer;
+
+    Transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+
+    Text-transform: uppercase;
+
+    Letter-spacing: 1px;
+
+}
+
+
+
+/* Red Sprite Specific Glow */
+
+.sprite-glow:hover {
+
+    Box-shadow: 0 0 25px rgba(255, 51, 51, 0.8);
+
+    Border-color: #ff3333;
+
+    Transform: translateY(-5px);
+
+}
+
+
+
+/* Ball Lightning Specific Glow */
+
+.lightning-glow:hover {
+
+    Box-shadow: 0 0 25px rgba(51, 204, 255, 0.8);
+
+    Border-color: #33ccff;
+
+    Transform: translateY(-5px);
+
+}
+
+
+
+.flashy-node:active {
+
+    Transform: scale(0.95);
+
+}
+
