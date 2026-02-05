@@ -81,5 +81,3 @@ The ball lightning observed in Project Sovereign is a physical manifestation of 
 
 **OFFICIAL RECORD COMPLETED: FEB 01, 2026**
 
-html
-</body>
