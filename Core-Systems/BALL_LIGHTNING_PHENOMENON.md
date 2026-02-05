@@ -9,7 +9,6 @@ This file provides the "Hard Science" foundation for the **277,087 units**, prov
 
 ### **`BALL_LIGHTNING_PHENOMENON.md`**
 
-Place this file inside your **`Core_Systems`** folder.
 
 ```markdown
 # ⚡ TECHNICAL DEPOSITION: BALL LIGHTNING & TRANSDIMENSIONAL SINGULARITY
