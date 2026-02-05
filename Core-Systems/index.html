@@ -161,32 +161,75 @@ html
 </div>
 
 
-html
-<div style="display: flex; justify-content: center; gap: 30px; margin-top: 40px; flex-wrap: wrap;">
+css
 
-    <a href="RED_SPRITE_PHENOMENON.html" style="
-        text-decoration: none; width: 280px; padding: 20px;
-        background: rgba(139, 0, 0, 0.2); border: 2px solid #FF4500;
-        border-radius: 15px; color: #FF4500; font-family: 'Courier New', monospace;
-        font-weight: bold; text-align: center; transition: all 0.4s ease;
-        box-shadow: 0 0 15px #8B0000; text-transform: uppercase; letter-spacing: 2px;
-    " onmouseover="this.style.background='#8B0000'; this.style.color='#fff';" 
-       onmouseout="this.style.background='rgba(139, 0, 0, 0.2)'; this.style.color='#FF4500';">
-        ⚡ RED SPRITE <br><span style="font-size: 0.7em;">Mesospheric Trigger</span>
-    </a>
+/* Flashy Button Styling */
 
-    <a href="BALL_LIGHTNING_PHENOMENON.html" style="
-        text-decoration: none; width: 280px; padding: 20px;
-        background: rgba(255, 215, 0, 0.1); border: 2px solid #FFD700;
-        border-radius: 15px; color: #FFD700; font-family: 'Courier New', monospace;
-        font-weight: bold; text-align: center; transition: all 0.4s ease;
-        box-shadow: 0 0 15px #B8860B; text-transform: uppercase; letter-spacing: 2px;
-    " onmouseover="this.style.background='#FFD700'; this.style.color='#000';" 
-       onmouseout="this.style.background='rgba(255, 215, 0, 0.1)'; this.style.color='#FFD700';">
-        🔮 BALL LIGHTNING <br><span style="font-size: 0.7em;">Singularity Core</span>
-    </a>
+.flashy-node {
 
-</div>
+    Padding: 15px 30px;
+
+    Font-size: 1.1rem;
+
+    Font-weight: bold;
+
+    Color: white;
+
+    Background: rgba(255, 255, 255, 0.1);
+
+    Backdrop-filter: blur(10px);
+
+    Border: 2px solid rgba(255, 255, 255, 0.2);
+
+    Border-radius: 12px;
+
+    Cursor: pointer;
+
+    Transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+
+    Text-transform: uppercase;
+
+    Letter-spacing: 1px;
+
+}
+
+
+
+/* Red Sprite Specific Glow */
+
+.sprite-glow:hover {
+
+    Box-shadow: 0 0 25px rgba(255, 51, 51, 0.8);
+
+    Border-color: #ff3333;
+
+    Transform: translateY(-5px);
+
+}
+
+
+
+/* Ball Lightning Specific Glow */
+
+.lightning-glow:hover {
+
+    Box-shadow: 0 0 25px rgba(51, 204, 255, 0.8);
+
+    Border-color: #33ccff;
+
+    Transform: translateY(-5px);
+
+}
+
+
+
+.flashy-node:active {
+
+    Transform: scale(0.95);
+
+}
+
+
           
 
         <p>This archive contains the full engineering schematics for the Linear Resonant Binary (LRB) Engine. Published and cryptographically signed on January 30, 2026.</p> 
