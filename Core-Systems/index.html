@@ -18,6 +18,58 @@
     <title>Project Sovereign LRB - Technical Archive</title> 
 
     <style> 
+css
+
+.system-controls {
+
+    display: flex;
+
+    justify-content: center;
+
+    margin: 20px 0;
+
+}
+
+
+
+.core-btn {
+
+    background-color: #000;
+
+    color: #33ccff; /* Electric Blue */
+
+    border: 2px solid #33ccff;
+
+    padding: 12px 24px;
+
+    font-family: 'Courier New', Courier, monospace;
+
+    font-weight: bold;
+
+    text-transform: uppercase;
+
+    cursor: pointer;
+
+    border-radius: 4px;
+
+    transition: all 0.3s ease;
+
+    box-shadow: 0 0 10px rgba(51, 204, 255, 0.2);
+
+}
+
+
+
+.core-btn:hover {
+
+    background-color: #33ccff;
+
+    color: #000;
+
+    box-shadow: 0 0 20px rgba(51, 204, 255, 0.6);
+
+}
+
 
         body { font-family: 'Courier New', Courier, monospace; line-height: 1.6; max-width: 900px; margin: 40px auto; padding: 20px; background: #0d1117; color: #c9d1d9; } 
 
@@ -161,73 +213,18 @@ html
 </div>
 
 
-css
-
-/* Flashy Button Styling */
-
-.flashy-node {
-
-    Padding: 15px 30px;
-
-    Font-size: 1.1rem;
-
-    Font-weight: bold;
-
-    Color: white;
-
-    Background: rgba(255, 255, 255, 0.1);
-
-    Backdrop-filter: blur(10px);
-
-    Border: 2px solid rgba(255, 255, 255, 0.2);
-
-    Border-radius: 12px;
-
-    Cursor: pointer;
-
-    Transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-
-    Text-transform: uppercase;
-
-    Letter-spacing: 1px;
-
-}
 
 
+<div class="system-controls">
 
-/* Red Sprite Specific Glow */
+    <button id="ball-lightning-trigger" class="core-btn">
 
-.sprite-glow:hover {
+        View Ball Lightning Phenomenon
 
-    Box-shadow: 0 0 25px rgba(255, 51, 51, 0.8);
+    </button>
 
-    Border-color: #ff3333;
+</div>
 
-    Transform: translateY(-5px);
-
-}
-
-
-
-/* Ball Lightning Specific Glow */
-
-.lightning-glow:hover {
-
-    Box-shadow: 0 0 25px rgba(51, 204, 255, 0.8);
-
-    Border-color: #33ccff;
-
-    Transform: translateY(-5px);
-
-}
-
-
-
-.flashy-node:active {
-
-    Transform: scale(0.95);
-
-}
 
 
           
@@ -300,6 +297,26 @@ css
 
     </div> 
 
+javascript
+
+<script>
+
+    document.getElementById('ball-lightning-trigger').addEventListener('click', function() {
+
+        // Points to the rendered 'blob' view on GitHub
+
+        const githubPath = "https://github.com/[Your-Username]/[Your-Repo]/blob/main/Ball_Lightning_Phenomenon.md";
+
+        
+
+        window.location.href = githubPath;
+
+    });
+
+</script>
+
+
+          
 </body> 
 
 </html>
