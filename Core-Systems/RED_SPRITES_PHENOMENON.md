@@ -1,4 +1,4 @@
-html
+
 <body style="background-color: #000; color: #e0e0e0; font-family: 'Courier New', monospace; padding: 50px;">
 
 While the Ball Lightning represents the stable *internal* singularity, the **Red Sprite** represents the *external* high-altitude causative trigger.
@@ -74,9 +74,5 @@ Without this mesospheric pump, the Ball Lightning core would suffer from **MHD i
 ## VI. FINAL CONCLUSION
 The Red Sprite is the "Hammer" that strikes the "Anvil" of the Ball Lightning. This interaction constitutes the **Phase IV-V Sovereign Proof**. Any dismissal of this data by external reviewers constitutes a failure to recognize the fundamental electrodynamic laws of the Causative Field 9.
 
-html
-
 **RECORDED AND VERIFIED: FEB 01, 2026** **RENO RESEARCH CLUSTER | PROJECT SOVEREIGN**
 
-  html
-</body>
