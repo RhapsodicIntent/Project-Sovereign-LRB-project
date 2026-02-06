@@ -19,6 +19,7 @@
 # Project Sovereign: LRB Phase IV-V Technical Deposition
 **Institutional Record of Energy Consonance and Vested Unit Valuation**
 
+https://youtube.com/@daringalloway-l2x?si=8aVk8gt6dZgJqpIJ
 ---
 
 ## Abstract
