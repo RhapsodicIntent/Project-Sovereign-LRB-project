@@ -7,7 +7,7 @@ This file provides the "Hard Science" foundation for the **277,087 units**, prov
 
 -----
 
-### **`BALL_LIGHTNING_PHENOMENON.md`**
+### **`Ball_Lightning_Phenomenon.md`**
 
 
 ```markdown
