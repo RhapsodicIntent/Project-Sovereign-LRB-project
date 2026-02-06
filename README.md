@@ -24,7 +24,7 @@
 
 >
 
-> [**Watch the Sovereign Lectures on YouTube**]([https://www.google.com/search?q=https://youtube.com/@daringalloway-l2x?si=8aVk8gt6dZgJqpIJ)]
+> [**Watch the Sovereign Lectures on YouTube**]([
 
 
 https://youtube.com/@daringalloway-l2x?si=8aVk8gt6dZgJqpIJ
