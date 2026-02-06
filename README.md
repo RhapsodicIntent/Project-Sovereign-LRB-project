@@ -19,6 +19,14 @@
 # Project Sovereign: LRB Phase IV-V Technical Deposition
 **Institutional Record of Energy Consonance and Vested Unit Valuation**
 
+
+> The theoretical frameworks presented in these Markdown files are expanded upon in the **Omega Investigation Video Archive**. These lectures provide the visual forensic evidence and real-time synthesis of the energy extraction protocols discussed herein.
+
+>
+
+> [**Watch the Sovereign Lectures on YouTube**]([https://www.google.com/search?q=https://youtube.com/@daringalloway-l2x?si=8aVk8gt6dZgJqpIJ)]
+
+
 https://youtube.com/@daringalloway-l2x?si=8aVk8gt6dZgJqpIJ
 ---
 
