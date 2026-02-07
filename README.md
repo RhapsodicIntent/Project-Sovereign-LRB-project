@@ -48,6 +48,22 @@ https://youtu.be/tYg0o084Z38
 
 ---
 
+> ## 📜 Formal Declaration of Scientific Record
+
+>
+
+> **Status:** *Signed and Synchronized to the Immutable Ledger.* \> This document serves as the foundational charter for **Project Sovereign** and the **Omega Investigation**. It outlines the ethical and mathematical necessity of the 11D Manifold synthesis and the transition toward a peer-to-peer reality metric.
+
+>
+
+> [**Read the Formal Declaration on Paragraph**](https://paragraph.com/@rhapsodic-intent/formal-declaration-of-scientific-record?referrer=0xe80Ba954CccF0B8Ba27644ECCA1853B98fe87626)  
+
+> *(Mirror available via Web3/Arweave protocol for permanent archival)*
+
+
+---
+
+
 ## Abstract
 This repository serves as the primary scientific record for the **Project Sovereign LRB IV-V** interaction. The project focuses on the magnetohydrodynamic (MHD) equilibrium of Argon-based Z-pinch plasma discharges. This record validates the synchronization of high-frequency technical data with the sovereign unit valuation matrix.
 
