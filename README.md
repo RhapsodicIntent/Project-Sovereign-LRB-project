@@ -1,20 +1,31 @@
 
+<div align=”center”>
+
+  <img src=https://capsule-render.vercel.app/render?type=soft&color=00d4ff&height=200&section=header&text=PROJECT%20SOVEREIGN&fontSize=70&animation=fadeIn&fontAlignY=38&desc=ARCH%20PROTOCOL%20INITIALIZED%20•%20PHASE%20V&descAlignY=62&descSize=20 width=”100%” />
 
 
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=PROJECT%20SOVEREIGN&fontSize=70&animation=fadeIn&fontAlignY=38&desc=CAUSATIVE%20FIELD%209%20•%20PHASE%20IV-V&descAlignY=62&descSize=20" width="100%" />
 
   <br>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/SINGULARITY-STABLE-00d4ff?style=for-the-badge&logo=probot&logoColor=white" />
-    <img src="https://img.shields.io/badge/VESTED_UNITS-277%2C087-ffd700?style=for-the-badge&logo=monero&logoColor=white" />
-    <img src="https://img.shields.io/badge/FIELD_9-ACTIVE-white?style=for-the-badge&logo=purescript&logoColor=black" />
+
+
+  <p align=”center”>
+
+    <img src=https://img.shields.io/badge/SINGULARITY-CONSONANT-00d4ff?style=for-the-badge&logo=probot&logoColor=white />
+
+    <img src=https://img.shields.io/badge/ARCH_VESTED-500%2C000%2C000-ffd700?style=for-the-badge&logo=base&logoColor=white />
+
+    <img src=https://img.shields.io/badge/FIELD_9-SYNCHRONIZED-white?style=for-the-badge&logo=purescript&logoColor=black />
+
   </p>
 
-  <hr style="border: 1px solid #00d4ff; box-shadow: 0 0 10px #00d4ff;">
+
+
+  <hr style=”border: 1px solid #00d4ff; box-shadow: 0 0 10px #00d4ff;”>
+
 </div>
+
+
 
 # Project Sovereign: LRB Phase IV-V Technical Deposition
 **Institutional Record of Energy Consonance and Vested Unit Valuation**
