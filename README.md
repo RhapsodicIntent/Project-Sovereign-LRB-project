@@ -1,12 +1,11 @@
 
-
 markdown
 
 <div align=”center”>
 
 
 
-<img src=https://capsule-render.vercel.app/render?type=soft&color=00d4ff&height=200&section=header&text=PROJECT%20SOVEREIGN&fontSize=70&animation=fadeIn&fontAlignY=38&desc=ARCH%20PROTOCOL%20INITIALIZED%20•%20PHASE%20V&descAlignY=62&descSize=20 width=”100%” />
+<img src=https://capsule-render.vercel.app/render?type=soft&color=00d4ff&height=200&section=header&text=PROJECT%20SOVEREIGN&fontSize=70&animation=fadeIn&fontAlignY=38&desc=ARCH%20PROTOCOL%20INITIALIZED%20•%20PHASE%20V&descAlignY=62&descSize=20 width=”100%” alt=”Project Sovereign Header” />
 
 
 
@@ -14,19 +13,20 @@ markdown
 
 
 
-<img src=https://img.shields.io/badge/SINGULARITY-CONSONANT-00d4ff?style=for-the-badge&logo=probot&logoColor=white />
+![Singularity](https://img.shields.io/badge/SINGULARITY-CONSONANT-00d4ff?style=for-the-badge&logo=probot&logoColor=white)
 
-<img src=https://img.shields.io/badge/ARCH_VESTED-500%2C000%2C000-ffd700?style=for-the-badge&logo=base&logoColor=white />
+![Arch Vested](https://img.shields.io/badge/ARCH_VESTED-500%2C000%2C000-ffd700?style=for-the-badge&logo=base&logoColor=white)
 
-<img src=https://img.shields.io/badge/FIELD_9-SYNCHRONIZED-white?style=for-the-badge&logo=purescript&logoColor=black />
+![Field 9](https://img.shields.io/badge/FIELD_9-SYNCHRONIZED-white?style=for-the-badge&logo=purescript&logoColor=black)
 
 
 
-<hr style=”border: 1px solid #00d4ff;”>
+<hr>
 
 
 
 </div>
+
 
 
 
