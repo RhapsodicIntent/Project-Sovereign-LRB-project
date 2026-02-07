@@ -1,7 +1,5 @@
 
 
-markdown
-
 <div align=”center”>
 
 
@@ -14,7 +12,7 @@ markdown
 
 
 
-[![Singularity](https://img.shields.io/badge/SINGULARITY-CONSONANT-00d4ff?style=for-the-badge&logo=probot&logoColor=white)](./SINGULARITY.md)
+![Singularity](https://img.shields.io/static/v1?label=SINGULARITY&message=CONSONANT&color=00d4ff&style=for-the-badge&logo=spacex&logoColor=white)
 
 ![Arch Vested](https://img.shields.io/static/v1?label=ARCH%20VESTED&message=500,000,000&color=ffd700&style=for-the-badge&logo=base&logoColor=white)
 
