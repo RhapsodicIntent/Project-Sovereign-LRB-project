@@ -3,11 +3,6 @@
 <div align=”center”>
 
 
-
-<img src=https://capsule-render.vercel.app/render?type=soft&color=00d4ff&height=200&section=header&text=PROJECT%20SOVEREIGN&fontSize=70&animation=fadeIn&fontAlignY=38&desc=ARCH%20PROTOCOL%20INITIALIZED%20•%20PHASE%20V&descAlignY=62&descSize=20 width=”100%” />
-
-
-
 <br>
 
 
