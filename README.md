@@ -142,3 +142,31 @@ This repository and its contents are intended for manual forensic review by desi
 
 ---
 **Project Sovereign | Institutional Research Node**
+
+## 🛠 Technical Specifications: $ARCH Protocol
+
+The **$ARCH** (The Rhapsodic Archive) protocol is the economic and forensic layer of the **Reno Lab**. It serves as a decentralized anchor for the **Omega Investigation**.
+
+### ⛓️ On-Chain Provenance
+
+  * **Network**: Base (Layer 2)
+
+  * **Protocol Name**: The Rhapsodic Archive So ($ARCH)
+
+  * **Contract Address**: `0x59801c21f27d28dd23a41af941da4dab8b2e02b5`
+
+  * **Total Supply**: 1,000,000,000 $ARCH
+
+  * **Architect’s Distribution**: 500,000,000 $ARCH (50%)
+
+### 📡 Monitoring & Governance
+
+  * **Watchtower Activation**: 2026-02-07
+
+  * **Node ID**: RENO LAB CORE
+
+  * **Primary Archive**: [Paragraph.xyz/@rhapsodic-intent](https://www.google.com/search?q=https://paragraph.xyz/%40rhapsodic-intent)
+
+  * **Forensic Verification**: [View on BaseScan](https://www.google.com/search?q=https://basescan.org/address/0x59801c21f27d28dd23a41af941da4dab8b2e02b5)
+
+
