@@ -30,8 +30,6 @@ https://youtube.com/@daringalloway-l2x?si=8aVk8gt6dZgJqpIJ
 
 UHTC
 https://youtu.be/CHgzdVfXBo4
-https://youtu.be/CHgzdVfXBo4
- https://youtu.be/CHgzdVfXBo4
 
 GUHTSI
 https://youtu.be/_0HRJV5S4_s
