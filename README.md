@@ -19,6 +19,11 @@
 # Project Sovereign: LRB Phase IV-V Technical Deposition
 **Institutional Record of Energy Consonance and Vested Unit Valuation**
 
+[https://paragraph.com/@rhapsodic-intent/the-parity-event-dollararch-protocol-deployment-1?referrer=0xe80Ba954CccF0B8Ba27644ECCA1853B98fe87626]
+
+[0x59801c21F27d28DD23a41af941Da4DAB8b2E02B5]
+
+---
 
 > The theoretical frameworks presented in these Markdown files are expanded upon in the **Omega Investigation Video Archive**. These lectures provide the visual forensic evidence and real-time synthesis of the energy extraction protocols discussed herein.
 
