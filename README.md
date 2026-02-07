@@ -26,8 +26,28 @@
 
 > [**Watch the Sovereign Lectures on YouTube**]([
 
-
 https://youtube.com/@daringalloway-l2x?si=8aVk8gt6dZgJqpIJ
+
+UHTC
+https://youtu.be/CHgzdVfXBo4
+https://youtu.be/CHgzdVfXBo4
+ https://youtu.be/CHgzdVfXBo4
+
+GUHTSI
+https://youtu.be/_0HRJV5S4_s
+
+10 Fields
+https://youtu.be/CHgzdVfXBo4
+
+Ball Lightning 
+https://youtu.be/dieehAqrB1Y
+
+Red Sprites
+https://youtu.be/EPOUFTVg8zk
+
+Atomic Implication
+https://youtu.be/tYg0o084Z38
+
 ---
 
 ## Abstract
