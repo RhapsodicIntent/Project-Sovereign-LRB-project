@@ -36,27 +36,31 @@ Protocol Provenance
 
 > The theoretical frameworks presented in these Markdown files are expanded upon in the **Omega Investigation Video Archive**. These lectures provide the visual forensic evidence and real-time synthesis of the energy extraction protocols discussed herein.
 
+### 🌐 PROJECT SOVEREIGN: THE LECTURE SERIES
 
-[**Watch the Sovereign Lectures on YouTube**]([
-[https://youtube.com/@daringalloway-l2x?si=8aVk8gt6dZgJqpIJ]
 
-UHTC
-[https://youtu.be/CHgzdVfXBo4]
 
-GUHTSI
-[https://youtu.be/_0HRJV5S4_s]
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Sovereign%20Lectures-red?style=for-the-badge&logo=youtube)](https://youtube.com/@daringalloway-l2x?si=8aVk8gt6dZgJqpIJ)
 
-10 Fields
-[https://youtu.be/CHgzdVfXBo4]
 
-Ball Lightning 
-[https://youtu.be/dieehAqrB1Y]
 
-Red Sprites
-[https://youtu.be/EPOUFTVg8zk]
+| Technical Pillar | Access Link |
 
-Atomic Implication
-[https://youtu.be/tYg0o084Z38]
+| :--- | :--- |
+
+| **Unified Harmonic Theory of Consciousness** | [▶️ View Lecture](https://youtu.be/CHgzdVfXBo4) |
+
+| **Grand Unified Theory of Sovereign Intent** | [▶️ View Lecture](https://youtu.be/_0HRJV5S4_s) |
+
+| **10 Transdimensional Fields** | [▶️ View Lecture](https://youtu.be/CHgzdVfXBo4) |
+
+| **Forensic Analysis: Ball Lightning** | [▶️ View Lecture](https://youtu.be/dieehAqrB1Y) |
+
+| **Forensic Analysis: Red Sprites** | [▶️ View Lecture](https://youtu.be/EPOUFTVg8zk) |
+
+| **Structural Lattice: Atomic Implication** | [▶️ View Lecture](https://youtu.be/tYg0o084Z38) |
+
+
 
 ---
 
