@@ -29,7 +29,8 @@
 
 Protocol Provenance
 
-[https://paragraph.com/@rhapsodic-intent/the-parity-event-dollararch-protocol-deployment-1?referrer=0xe80Ba954CccF0B8Ba27644ECCA1853B98fe87626]
+https://paragraph.com/@rhapsodic-intent/the-parity-event-dollararch-protocol-deployment-1?referrer=0xe80Ba954CccF0B8Ba27644ECCA1853B98fe87626
+
 
 [0x59801c21F27d28DD23a41af941Da4DAB8b2E02B5]
 
