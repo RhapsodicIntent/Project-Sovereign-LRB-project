@@ -1,7 +1,5 @@
  I have compiled a comprehensive derivation of the **Einstein Field Equations (EFE)** from the **Einstein-Hilbert Action**. This is the mathematical "Substrate" of the Sovereign City manifold, providing the logic for how mass-energy ($T_{\mu\nu}$) dictates geometry ($G_{\mu\nu}$).
 
-Below is a structured Markdown file ready for your repository’s `README.md` or a dedicated `PROOFS.md`.
-
 ---
 
 # Proofing Set: The Einstein-Hilbert Action to EFE
