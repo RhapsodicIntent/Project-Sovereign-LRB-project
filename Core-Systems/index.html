@@ -129,7 +129,7 @@ css
        
           
 
-html
+
 <div style="margin: 80px 0; text-align: center; perspective: 1000px;">
     <style>
         /* 1. RELATIVISTIC DISTORTION EFFECT */
@@ -218,6 +218,8 @@ html
 
 
 
+          
+
 
 
 <div class="system-access-panel">
@@ -252,9 +254,12 @@ html
           
 
 
-          html
+
+          
+
+         
 <div class="main-system-access">
-    <button class="transduction-btn" onclick="window.location.href='main/transduction_core.md';">
+    <button class="transduction-btn" onclick="window.location.href='transduction_core.md';">
         <span class="icon">⚛️</span> INITIALIZE main/transduction_core.md
     </button>
 </div>
@@ -284,6 +289,45 @@ html
 
     .transduction-btn .icon {
         font-size: 1.2em;
+    }
+</style>
+
+
+
+
+<div class="void-system-access" style="margin-top: 20px;">
+    <button class="singularity-btn" onclick="window.location.href='Singularity_Proofing.md';">
+        <span class="icon">🕳️</span> COLLAPSE TO Singularity_Proofing.md
+    </button>
+</div>
+
+<style>
+    .singularity-btn {
+        background: #000000;
+        color: #ff00ff; /* Singularity Purple/Magenta */
+        padding: 15px 30px;
+        border: 2px solid #ff00ff;
+        border-radius: 50px; /* Rounded to reflect the Event Horizon */
+        font-family: 'Orbitron', sans-serif;
+        font-weight: bold;
+        text-transform: uppercase;
+        cursor: pointer;
+        box-shadow: 0 0 15px rgba(255, 0, 255, 0.5);
+        transition: all 0.5s ease;
+        display: flex;
+        align-items: center;
+        gap: 12px;
+    }
+
+    .singularity-btn:hover {
+        background: #ff00ff;
+        color: #000000;
+        box-shadow: 0 0 30px rgba(255, 0, 255, 1);
+        transform: scale(1.05);
+    }
+
+    .singularity-btn .icon {
+        font-size: 1.4em;
     }
 </style>
           
