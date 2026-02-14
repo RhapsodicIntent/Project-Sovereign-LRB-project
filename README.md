@@ -25,7 +25,8 @@ Proofing Set: Transdimensional Energy Transduction (AQN-BL)
 Description: Rigorous derivation of the Bremsstrahlung radiation flux from a 5D AQN source.
 The Dimensional Anchor: Kaluza-Klein Metric
 
- [**⚛️ Initialize Transduction Core (transduction_core.md)**](Core-Systems/transduction_core.md)
+markdown
+> [**⚛️ Initialize Transduction Core (transduction_core.md)**](Core-Systems/transduction_core.md)
 
 ---
 Proofing Set: The Unified Transduction Manifold
