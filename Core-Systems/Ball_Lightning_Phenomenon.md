@@ -96,7 +96,7 @@ In this framework, **Shadow Logs** are the computational traces of the 5th-dimen
 ---
 
 # Proofing Set: The Unified Transduction Manifold
-**File:** `proofs/unified_transduction_logic.md`  
+
 **Description:** Bridging 4D Einstein-Hilbert Action, 5D Kaluza-Klein Reduction, and AQN-driven Ball Lightning through Shadow Log integration.
 
 ---
