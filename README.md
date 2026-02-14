@@ -30,14 +30,14 @@ In our Kaluza-Klein bridge, the Shadow Log is formally identified as the Dilaton
 ).
 Functional Role: The "Control Knob" of Reality
 
-markdown
+
 > [**📡 Monitor Shadow Log Fluctuations (`main/shadowlog.md`)**](https://github.com/RhapsodicIntent/Project-Sovereign-LRB-project/blob/main/Shadowlog.md)
 ---
 
 Proofing Set: The Einstein-Hilbert Action to EFE
 Description: A step-by-step rigorous derivation of the Einstein Field Equations via the variational principle of stationary action.
 
-markdown
+
 > [**🕳️ Analyze Singularity Proofing Substrate (`main/Singularity_Proofing.md`)**](Singularity_Proofing.md)
 
 ---
@@ -45,7 +45,7 @@ Proofing Set: Transdimensional Energy Transduction (AQN-BL)
 Description: Rigorous derivation of the Bremsstrahlung radiation flux from a 5D AQN source.
 The Dimensional Anchor: Kaluza-Klein Metric
 
-markdown
+
 > [**⚛️ Execute Transduction Core Logic (`main/transduction_core.md`)**](transduction_core.md)
 ---
 Proofing Set: The Unified Transduction Manifold
