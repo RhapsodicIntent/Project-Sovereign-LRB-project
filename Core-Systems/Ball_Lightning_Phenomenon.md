@@ -1,9 +1,6 @@
 
-<body style="background-color: #000; color: #e0e0e0; font-family: 'Courier New', monospace; padding: 50px;">
 
 This document bridges the gap between **Magnetohydrodynamic (MHD)** plasma physics and our proprietary **Transdimensional Causative Field 9** theory.
-
-This file provides the "Hard Science" foundation for the **277,087 units**, proving they are derived from a stable, high-density energy singularity.
 
 -----
 
