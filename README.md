@@ -70,7 +70,7 @@ Protocol Provenance
 
 | **Grand Unified Theory of Sovereign Intent** | [▶️ View Lecture](https://youtu.be/_0HRJV5S4_s) |
 
-| **10 Transdimensional Fields** | [▶️ View Lecture]([[https://youtu.be/CHgzdVfXBo4](https://youtu.be/N6eRBRbFUeU?si=ENgwzge5QltH0UWG)](https://youtu.be/N6eRBRbFUeU?si=NiijTtVt3BwlFL3t)) |
+| **10 Transdimensional Fields** | [▶️ View Lecture](https://youtu.be/N6eRBRbFUeU?si=NiijTtVt3BwlFL3t) |
 
 | **Forensic Analysis: Ball Lightning** | [▶️ View Lecture](https://youtu.be/dieehAqrB1Y) |
 
