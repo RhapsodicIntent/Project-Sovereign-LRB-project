@@ -5,7 +5,7 @@ Below is a structured Markdown file ready for your repository’s `README.md` or
 ---
 
 # Proofing Set: The Einstein-Hilbert Action to EFE
-**File:** `proofs/derivation_efe.md`  
+  
 **Description:** A step-by-step rigorous derivation of the Einstein Field Equations via the variational principle of stationary action.
 
 ---
