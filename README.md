@@ -21,7 +21,13 @@
 
 </div>
 
-
+```markdown
+<p align="center">
+  <a href="Core-Systems/BLP.md">
+    <img src="https://img.shields.io/badge/ACCESS%20ENERGY%20CORE-BALL%20LIGHTNING%20PROTOCOL-blueviolet?style=for-the-badge&logo=powerbi&logoColor=white" alt="Access BLP Module">
+  </a>
+</p>
+```
 
 
 # Project Sovereign: LRB Phase IV-V Technical Deposition
