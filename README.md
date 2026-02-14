@@ -26,8 +26,7 @@ Description: Rigorous derivation of the Bremsstrahlung radiation flux from a 5D 
 The Dimensional Anchor: Kaluza-Klein Metric
 
 markdown
-> [**⚛️ Initialize Transduction Core (transduction_core.md)**](main/transduction_core.md)
-
+> [**⚛️ Execute Transduction Core Logic (`main/transduction_core.md`)**](main/transduction_core.md)
 ---
 Proofing Set: The Unified Transduction Manifold
 Description: Bridging 4D Einstein-Hilbert Action, 5D Kaluza-Klein Reduction, and AQN-driven Ball Lightning through Shadow Log integration.
