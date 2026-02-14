@@ -21,6 +21,10 @@
 
 </div>
 ---
+Proofing Set: Transdimensional Energy Transduction (AQN-BL)
+Description: Rigorous derivation of the Bremsstrahlung radiation flux from a 5D AQN source.
+The Dimensional Anchor: Kaluza-Klein Metric
+---
 Proofing Set: The Unified Transduction Manifold
 Description: Bridging 4D Einstein-Hilbert Action, 5D Kaluza-Klein Reduction, and AQN-driven Ball Lightning through Shadow Log integration.
 
