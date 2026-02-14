@@ -26,7 +26,7 @@ Description: Rigorous derivation of the Bremsstrahlung radiation flux from a 5D 
 The Dimensional Anchor: Kaluza-Klein Metric
 
 markdown
-> [**⚛️ Initialize Transduction Core (transduction_core.md)**](Core-Systems/transduction_core.md)
+> [**⚛️ Initialize Transduction Core (transduction_core.md)**](main/transduction_core.md)
 
 ---
 Proofing Set: The Unified Transduction Manifold
