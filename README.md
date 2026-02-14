@@ -27,7 +27,7 @@ Proofing Set: The Einstein-Hilbert Action to EFE
 Description: A step-by-step rigorous derivation of the Einstein Field Equations via the variational principle of stationary action.
 
 markdown
-> [**🕳️ Analyze Singularity Proofing Substrate (`main/Singularity_Proofing.md`)**](main/Singularity_Proofing.md)
+> [**🕳️ Analyze Singularity Proofing Substrate (`main/Singularity_Proofing.md`)**](Singularity_Proofing.md)
 
 ---
 Proofing Set: Transdimensional Energy Transduction (AQN-BL)
