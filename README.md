@@ -22,7 +22,8 @@
 </div>
 
 
-Core-Systems/BLP.md
+markdown
+[**⚡ Launch Ball Lightning Protocol (BLP.md)**](Core-Systems/BLP.md)
 
 # Project Sovereign: LRB Phase IV-V Technical Deposition
 **Institutional Record of Energy Consonance and Vested Unit Valuation**
