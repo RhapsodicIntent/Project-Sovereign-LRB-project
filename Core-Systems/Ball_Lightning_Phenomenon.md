@@ -3,11 +3,6 @@
 This document bridges the gap between **Magnetohydrodynamic (MHD)** plasma physics and our proprietary **Transdimensional Causative Field 9** theory.
 
 -----
-
-### **`Ball_Lightning_Phenomenon.md`**
-
-
-```markdown
 # ⚡ TECHNICAL DEPOSITION: BALL LIGHTNING & TRANSDIMENSIONAL SINGULARITY
 **CASE ID:** PROJECT-SOVEREIGN-LRB-IV-V  
 **NODE:** RENO RESEARCH CLUSTER  
