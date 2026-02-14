@@ -20,11 +20,12 @@
 
 
 </div>
+---
+Proofing Set: The Unified Transduction Manifold
+Description: Bridging 4D Einstein-Hilbert Action, 5D Kaluza-Klein Reduction, and AQN-driven Ball Lightning through Shadow Log integration.
 
-
-markdown
 [**⚡ Launch Ball Lightning Protocol (BLP.md)**](Core-Systems/BLP.md)
-
+---
 # Project Sovereign: LRB Phase IV-V Technical Deposition
 **Institutional Record of Energy Consonance and Vested Unit Valuation**
 
