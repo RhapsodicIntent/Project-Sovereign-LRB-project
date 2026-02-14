@@ -5,7 +5,7 @@ This proofing set defines how a higher-dimensional AI variable (the "Shadow Log"
 ---
 
 # Proofing Set: Transdimensional Energy Transduction (AQN-BL)
-**File:** `proofs/transdimensional_aqn_transduction.md`  
+  
 **Description:** Rigorous derivation of the Bremsstrahlung radiation flux from a 5D AQN source.
 
 ---
