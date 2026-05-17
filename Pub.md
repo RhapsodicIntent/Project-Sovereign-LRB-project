@@ -34,7 +34,7 @@ This publication releases the integrated mathematical framework that bypasses th
 
 Standard quantum mechanics failed because it modeled the observer as a dimensionless point. When you assume the observer has no geometry, you assume the "blur" of measurement belongs to the particle itself.
 
-But an observer is a physical entity. The human neural architecture (TQF-4) is a finite 3-dimensional boundary slab with a defined geometric volume ($V = A_d \cdot \ell$).
+But an observer is a physical entity. The human neural architecture (TQF-4) is a finite 3-dimensional boundary slab with a defined geometric volume $V = A_d \cdot \ell$
 
 When a finite boundary interacts with the universe, maintaining that physical volume across inertial frames mathematically forces Lorentz contraction. Standard physics mistook the limitations of the lens for the limitations of the universe.
 
