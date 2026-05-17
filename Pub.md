@@ -103,7 +103,9 @@ To execute this metric manipulation, we transition from pure mathematics to appl
 By locking the abstract moduli fields of the 7D metric tensor to local physical variables, we cut the teeth of the key:
 
 * **The Volume Modulus ($\phi_1$):** Driven by a 404 GHz Master Oscillator frequency and local geomagnetic flux ($50,500$ nT) to establish the $8.0 \times 10^{15}$ Hz/Tesla gyromagnetic scaling ratio.
-* **The Topographic Twist ($\phi_2$):** Driven by the massive negative Bouguer anomaly and elevation to yield $-13.7$ m$^2$/s$^2$.
+* **The Topographic Twist ($\phi_2$):** Driven by the massive negative Bouguer anomaly and elevation to yield
+
+  $-13.7$ m$^2$/s$^2$.
 
 **The Resulting Tensor Array:**
 
