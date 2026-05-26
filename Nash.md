@@ -70,6 +70,8 @@ if equilibrium_check == unsat:
 else:
     print("STATUS: SAT. Equilibrium broken. System can decay.")
 
+  
+
     -- ARCH Protocol: Formalization of Nash Isometric Embedding
 import Mathlib.Geometry.Riemannian.Basic
 import Mathlib.Topology.MetricSpace.IsometricSMul
